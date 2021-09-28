@@ -1,0 +1,13 @@
+.home-container{
+    margin: 120px;
+}
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.total-country{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}

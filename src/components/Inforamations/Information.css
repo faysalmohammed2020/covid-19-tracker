@@ -1,0 +1,9 @@
+.card-container{
+    margin: 20px;
+    
+}
+
+.cardboady:hover{
+    background-color: black;
+    color: white;
+}
